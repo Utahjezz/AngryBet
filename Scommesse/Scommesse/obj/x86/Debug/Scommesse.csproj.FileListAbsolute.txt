@@ -1,0 +1,59 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\bin\Debug\Scommesse.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\bin\Debug\Scommesse.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\Scommesse.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\Scommesse.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form2.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Scommesse\Scommesse\obj\x86\Debug\Scommesse.View.Form4.resources
+C:\Users\Administrator\Desktop\Scommesse\Scommesse\obj\x86\Debug\Scommesse.exe
+C:\Users\Administrator\Desktop\Scommesse\Scommesse\obj\x86\Debug\Scommesse.pdb
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.exe
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.pdb
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.exe
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.pdb
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form1.resources
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form2.resources
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form3.resources
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.View.Form4.resources
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.exe
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.pdb
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form1.resources
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form2.resources
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form3.resources
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Properties.Resources.resources
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.View.Form4.resources
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form1.resources
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form2.resources
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form3.resources
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Properties.Resources.resources
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.View.Form4.resources
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.csproj.GenerateResource.Cache
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\bin\Debug\Scommesse.exe
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\bin\Debug\Scommesse.pdb
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\bin\Debug\Scommesse.exe
+H:\Documents and Settings\Giacomo\Documenti\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\bin\Debug\Scommesse.pdb
+C:\Users\dOk\Google Drive\Progetto Ingegneria del Software T\C#\Scommesse\Scommesse\obj\x86\Debug\Scommesse.csprojResolveAssemblyReference.cache
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\Scommesse.exe
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Form3.resources
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\Scommesse.Properties.Resources.resources
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\GenerateResource.write.1.tlog
+\\VBOXSVR\progetto\Scommesse\Scommesse\bin\Debug\Scommesse.exe
+\\VBOXSVR\progetto\Scommesse\Scommesse\bin\Debug\Scommesse.pdb
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\Scommesse.pdb
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\Scommesse.SchermataInizialeForm.resources
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\Scommesse.AutenticazioneFrom.resources
+\\VBOXSVR\progetto\Scommesse\Scommesse\obj\x86\Debug\Scommesse.View.AngryBet.resources
